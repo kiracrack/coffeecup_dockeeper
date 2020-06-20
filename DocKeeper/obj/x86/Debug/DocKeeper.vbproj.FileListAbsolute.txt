@@ -1,0 +1,87 @@
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\DocKeeper.exe.config
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\DocKeeper.exe
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\DocKeeper.pdb
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\DocKeeper.xml
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\MySql.Data.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Data.DataSetExtensions.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Data.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Data.Linq.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Deployment.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Drawing.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Management.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Messaging.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Xml.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\bin\Debug\Interop.Shell32.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\Interop.Shell32.dll
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.vbproj.ResolveComReference.cache
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmUserLogSummary.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmConfiguration.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmAccountInfo.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmUserAccounts.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmConfirmPassword.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmDocumentList.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmViewDocument.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmFileViewer.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmFileUploader.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmNewDocument.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmCategory.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmChangePassword.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmConnectionSetup.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmSystemInfo.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmColumnChooser.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmUserlogoff.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.MainForm.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmLogin.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.Resources.resources
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.vbproj.GenerateResource.Cache
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.exe
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.xml
+D:\My.Net\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.pdb
+D:\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\DocKeeper.exe.config
+D:\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\Interop.Shell32.dll
+D:\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.vbproj.ResolveComReference.cache
+D:\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.exe
+D:\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.xml
+D:\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.pdb
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\DocKeeper.exe.config
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\Interop.Shell32.dll
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.vbproj.ResolveComReference.cache
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.exe
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.xml
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.pdb
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmUserLogSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmConfiguration.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmAccountInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmUserAccounts.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmConfirmPassword.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmDocumentList.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmViewDocument.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmFileViewer.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmFileUploader.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmNewDocument.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmCategory.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmChangePassword.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmSystemInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmColumnChooser.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmUserlogoff.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.MainForm.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmLogin.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.Resources.resources
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\DocKeeper.exe
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\DocKeeper.pdb
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\DocKeeper.xml
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Data.DataSetExtensions.dll
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Data.dll
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Data.Linq.dll
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Deployment.dll
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Drawing.dll
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Management.dll
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Messaging.dll
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Windows.Forms.dll
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Xml.dll
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\bin\Debug\System.Xml.Linq.dll
+C:\My Files\My.Net\System Core\Coffeecup DocKeeper\DocKeeper\obj\x86\Debug\DocKeeper.frmBackupDatabase.resources
